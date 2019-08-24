@@ -9,7 +9,7 @@
 ![pull request](https://github.com/Consolefun/WebMobile/blob/master/Web_Development/Web_ICP1/Documentation/pull_request.png)
 
 - **Screenshot of a repository that was forked over**
-![fork](https://github.com/Consolefun/WebMobile/blob/master/Documentation/Forked_repo.PNG)
+![fork](https://github.com/Consolefun/WebMobile/blob/master/Web_Development/Web_ICP1/Documentation/Forked_repo.PNG)
 
 - **index.html is in Source folder**
 
