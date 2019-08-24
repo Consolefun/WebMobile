@@ -12,7 +12,19 @@
 - **A repository that was forked over**
 ![fork](https://github.com/Consolefun/WebMobile/blob/master/Documentation/Forked_repo.PNG)
 
-- index.html is in Source folder
+- **index.html is in Source folder**
+...
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+...
 - Please refer to the Wiki page for detail information about this repository
   - [Web_ICP1](https://github.com/Consolefun/WebMobile-week1/wiki/Web-ICP1)
 
