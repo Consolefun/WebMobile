@@ -8,7 +8,7 @@
 
 ![pull request](https://github.com/Consolefun/WebMobile/blob/master/Documentation/pull_request.png)
 
-- **A repository that was forked over**
+- **Screenshot of a repository that was forked over**
 ![fork](https://github.com/Consolefun/WebMobile/blob/master/Documentation/Forked_repo.PNG)
 
 - **index.html is in Source folder**
