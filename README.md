@@ -2,7 +2,7 @@
 
 - **Screenshot of the repository in Documentation folder**
 
-![Repo](https://github.com/Consolefun/WebMobile-week1/blob/master/Documentation/Repo_Screenshot.png)
+![Repo](https://github.com/Consolefun/WebMobile/blob/master/Web_Development/Web_ICP1/Documentation/Repo_Screenshot.png)
 
 - **Screenshot of the pull request after updated README in William-icp1 branch**
 
