@@ -6,7 +6,7 @@
 
 - **Screenshot of the pull request after updated README in William-icp1 branch**
 
-![pull request](https://github.com/Consolefun/WebMobile/blob/master/Documentation/pull_request.png)
+![pull request](https://github.com/Consolefun/WebMobile/blob/master/Web_Development/Web_ICP1/Documentation/pull_request.png)
 
 - **Screenshot of a repository that was forked over**
 ![fork](https://github.com/Consolefun/WebMobile/blob/master/Documentation/Forked_repo.PNG)
