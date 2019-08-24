@@ -1,4 +1,4 @@
-# WebMobile
+# WebMobile-week1
 
 **Screen shot of the repository is in Documentation folder**
 
