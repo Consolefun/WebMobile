@@ -4,3 +4,5 @@
 - index.html is in Source folder
 
 This was created by William Hoang! 
+
+Thank you for viewing
