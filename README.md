@@ -2,14 +2,14 @@
 
 - **Screenshot of the repository in Documentation folder**
 
-![Repo](https://github.com/Consolefun/WebMobile-week1/blob/master/Documentation/Repo_Screenshot.png)
+![Repo](https://github.com/Consolefun/WebMobile/blob/master/Web_Development/Web_ICP1/Documentation/Repo_Screenshot.png)
 
 - **Screenshot of the pull request after updated README in William-icp1 branch**
 
-![pull request](https://github.com/Consolefun/WebMobile/blob/master/Documentation/pull_request.png)
+![pull request](https://github.com/Consolefun/WebMobile/blob/master/Web_Development/Web_ICP1/Documentation/pull_request.png)
 
 - **Screenshot of a repository that was forked over**
-![fork](https://github.com/Consolefun/WebMobile/blob/master/Documentation/Forked_repo.PNG)
+![fork](https://github.com/Consolefun/WebMobile/blob/master/Web_Development/Web_ICP1/Documentation/Forked_repo.PNG)
 
 - **index.html is in Source folder**
 
