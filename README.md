@@ -4,10 +4,9 @@
 
 ![Repo](https://github.com/Consolefun/WebMobile-week1/blob/master/Documentation/Repo_Screenshot.png)
 
-- **This is the screenshot of the pull request after updated README in William-icp1 branch**
+- **Screenshot of the pull request after updated README in William-icp1 branch**
 
 ![pull request](https://github.com/Consolefun/WebMobile/blob/master/Documentation/pull_request.png)
----------------------------------------------------------------------
 
 - **A repository that was forked over**
 ![fork](https://github.com/Consolefun/WebMobile/blob/master/Documentation/Forked_repo.PNG)
