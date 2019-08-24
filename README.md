@@ -1,7 +1,6 @@
 # WebMobile-week1
 
-- Screen shot of the repository is in Documentation folder
-- https://github.com/Consolefun/WebMobile-week1/blob/master/Documentation/Repo_Screenshot.png
+**Screen shot of the repository is in Documentation folder**
 
 ![Repo](https://github.com/Consolefun/WebMobile-week1/blob/master/Documentation/Repo_Screenshot.png)
 
