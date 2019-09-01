@@ -26,8 +26,9 @@
        * Html and css files are located in the google_page folder inside Web_ICP2
             # [Click to open google page](https://user-images.githubusercontent.com/46702069/64072186-3333e600-cc50-11e9-860b-60d9be032d0d.png)
   
-  - **Please refer to the Wiki page for detail information about this repository**
-     * [Web ICP2](https://github.com/Consolefun/WebMobile/wiki/Web-ICP2)
+ - **Please refer to the Wiki page for detail information about this repository**
+ 
+    * [Web ICP2](https://github.com/Consolefun/WebMobile/wiki/Web-ICP2)
   
   
  
