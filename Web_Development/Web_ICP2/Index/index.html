@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+
+<title>Demon Slayer</title>
+
+<style>
+    h1{
+        color:purple;
+        text-align: center;
+    }
+    h2{
+        color: black;
+    }
+    body{
+        background-color: aqua;
+        background-attachment: scroll;
+    }
+
+
+    div img{
+
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+        float: left; /*this float might not be neccesary*/
+        margin-bottom: 0.5em;
+        overflow-y: visible;
+
+    }
+    .summary{
+        position: absolute;
+        left: 50px;
+        bottom: -30px;
+    }
+    .video{
+        position: absolute;
+        left: 50px;
+        bottom: -500px;
+    }
+    .img_text{
+        text-align: center;
+        width: 200px;
+        float: left;
+        margin-right: 1%;
+
+    }
+
+    .image-cropper{
+        width: 50px;
+        height: 50px;
+        position: relative;
+        overflow: hidden;
+        border-radius: 50%;
+    }
+    .profile-pic{
+        display: inline;
+
+        margin-left: -25%; /* center the image*/
+        height: 100%;
+        width: auto;
+    }
+    /*navigate the profile, signin, characters and more info*/
+    #nav-bar{
+        height: 150px;
+        margin-top: -70px;
+        margin-right: 30px;
+        position: absolute;
+        right: 10px;
+    }
+    #nav-bar li {
+        display: inline-block;
+        padding: 5px;
+        vertical-align: middle;
+    }
+
+    .nav-bar-opacity {
+        text-decoration: none;
+        color: purple;
+
+
+    }
+    .nav-bar-opacity:hover{
+        text-decoration: underline;
+        opacity: 1;
+    }
+
+    #sign-in{
+        background-color: yellow;
+        border-radius: 2px;
+        padding: 5px 12px;
+
+    }
+    #sign-in-text{
+        color: black; !important;
+        font-weight: bold;
+        text-decoration: none; !important;
+    }
+
+    .grid_container{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        justify-content: space-evenly;
+        position: absolute;
+        left: 800px;
+        bottom: 80px;
+    }
+    .grid_container > div{
+
+        width: 70px;
+        height: 70px;
+        margin: 8px;
+    }
+
+</style>
+<!-- this is a link use for external style.css file-->
+<!--<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css"href="style.css" media = "screen, projection"/>
+</head>-->
+<h1>
+     Demon Slayer
+</h1>
+
+<body>
+<ul id="nav-bar">
+    <li><a href="#" class="nav-bar-opacity">Characters</a></li>
+    <li><a href="#" class="nav-bar-opacity">More Info</a></li>
+    <li><button id="sign-in"><a href="#" id="sign-in-text">Sign in</a></button></li>
+    <li><a><div class="image-cropper"> <img src="https://cdn1.wakanim.tv/movies-pictures/f1285f0f-38fc-4057-8050-0799e26c6b01.jpg" alt="avatar" class="profile-pic"></div></a></li>
+
+</ul>
+<ul>
+    <li>
+
+        <h2 style="color: rebeccapurple">
+            Main <span style="color: cornflowerblue">Characters: </span>
+        </h2>
+    </li>
+
+    <ol>
+        <li>
+            <div class="img_text">
+
+                <a target="_blank" href="https://cdn.animenewsnetwork.com/hotlink/thumbnails/max450x450/cms/news.2/139916/zenitsu.jpg"><img src="https://cdn.animenewsnetwork.com/hotlink/thumbnails/max450x450/cms/news.2/139916/zenitsu.jpg" alt="Zenitsu"> </a>
+                <p> Zenitsu</p>
+
+                <a  href="https://ib2.hulu.com/user/v3/artwork/baa468f7-9bf4-44dd-bc34-353fb94d63a8?base_image_bucket_name=image_manager&base_image=6b9720c3-7b51-42e9-85a0-fdba129a5517&size=600x338&format=jpeg"><img src="https://ib2.hulu.com/user/v3/artwork/baa468f7-9bf4-44dd-bc34-353fb94d63a8?base_image_bucket_name=image_manager&base_image=6b9720c3-7b51-42e9-85a0-fdba129a5517&size=600x338&format=jpeg" alt="Tanjiro"></a>
+                <p> Tanjero</p>
+
+            </div>
+
+
+            <div class="img_text">
+                <a target="_blank" href="https://cdn.shopify.com/s/files/1/1673/0883/products/Demon_Slayer_Kimetsu_no_Yaiba_Kamado_Nezuko_Cosplay_Wig_2_1800x.jpg?v=1559811215"><img src="https://cdn.shopify.com/s/files/1/1673/0883/products/Demon_Slayer_Kimetsu_no_Yaiba_Kamado_Nezuko_Cosplay_Wig_2_1800x.jpg?v=1559811215" alt="Nezuko"></a>
+                <sup> Nezuko</sup>
+            </div>
+            <div class="img_text">
+                <a target="_blank" href="https://demonslayer-anime.com/assets/img/character/img_chara_05.jpg"><img src="https://demonslayer-anime.com/assets/img/character/img_chara_05.jpg" alt =" Giyuu"></a>
+                <strong>Giyuu</strong>
+            </div>
+            <div class="img_text">
+                <a target="_blank" href="https://data.whicdn.com/images/330806639/original.gif"><img src="https://data.whicdn.com/images/330806639/original.gif" alt="Muzan"> </a>
+                <i> Muzan Kibutsuji</i>
+            </div>
+
+            <div class="img_text">
+                <a target="_blank" href="https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/1/1a/Sabito_Anime.png/revision/latest?cb=20190426191922"><img src="https://vignette.wikia.nocookie.net/kimetsu-no-yaiba/images/1/1a/Sabito_Anime.png/revision/latest?cb=20190426191922" alt="Kyojuro rengoku"></a>
+                <p>Kyojuro Rengoku</p>
+            </div>
+
+
+
+        <div class="img_text">
+            <a target="_blank" href="https://data.whicdn.com/images/332432745/original.gif"><img src="https://data.whicdn.com/images/332432745/original.gif" alt="Hashibira Inosuke"></a>
+            <small>Hashibira Inosuke</small>
+        </div>
+        <div class="img_text">
+            <a target="_blank" href="https://cdn.myanimelist.net/images/characters/5/384828.jpg"><img src="https://cdn.myanimelist.net/images/characters/5/384828.jpg" alt="Ubuyashiki Kagaya"></a>
+            <em>Ubuyashiki Kagaya</em>
+        </div>
+        </li>
+
+
+
+    </ol>
+
+    <li class="summary">
+        <div>
+            <h2>Summary: </h2>
+
+        </div>
+        <ol>
+
+            <span>
+                <strong>
+                    Tanjiro Kamado is a kindhearted and intelligent boy who lives with his family, <br>
+                    making money by selling charcoal. Everything changes when his family is attacked and slaughtered by demons (oni).<br>
+                    <i>Tanjiro and his sister Nezuko are the sole survivors of the incident. Nezuko is now a demon, but still surprisingly shows signs of human</i> <br>
+                    <em>emotion and thought. Tanjiro becomes a demon slayer to help his sister turn human again and to avenge the loss of his family.</em>
+                </strong>
+
+            </span>
+        </ol>
+
+    </li>
+
+    <li class="video">
+        <div>
+            <h2> Video: </h2>
+            <video controls>
+                <source src = "Crazy Frog - Axel F.mp4" type = "video/mp4">
+
+            </video>
+
+        </div>
+    </li>
+
+</ul>
+
+<div class="grid_container">
+    <div style="background-color: rebeccapurple"> </div>
+    <div style="background-color: red"> </div>
+    <div style="background-color: white"> </div>
+    <div style="background-color: yellow"> </div>
+    <div style="background-color: blue"> </div>
+    <div style="background-color: olivedrab"> </div>
+    <div style="background-color: orange"> </div>
+    <div style="background-color: mediumvioletred"> </div>
+    <div style="background-color: lightslategray"> </div>
+</div>
+
+</body>
+</html>
