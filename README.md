@@ -11,7 +11,7 @@
 - **Screenshot of a repository that was forked over**
    * [fork request](https://github.com/Consolefun/WebMobile/blob/master/Web_Development/Web_ICP1/Documentation/Forked_repo.PNG)
 
-- **index.html is in Source folder**
+- **index.html is in Source folder(Web ICP1)**
 
 - **Please refer to the Wiki page for detail information about this repository**
    * [Web_ICP1](https://github.com/Consolefun/WebMobile-week1/wiki/Web-ICP1)
