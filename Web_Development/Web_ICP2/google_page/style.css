@@ -70,7 +70,7 @@ body {
   justify-content: center;
   align-content: center;
   flex-wrap: wrap;
-  box-shadow: 10px 10px grey;
+
 }
 
 .main-content img {
@@ -113,7 +113,7 @@ input:focus {
   bottom: 4px;
   left: 388px;
 }
-
+/*
 .grid_container{
   display: grid;
   grid-template-columns: auto auto auto;
@@ -121,17 +121,14 @@ input:focus {
   justify-content: space-evenly;
   position: absolute;
 
-
-
-
 }
-.grid_container > div{
+.grid_container > a{
 
-  width: 100px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
   margin: 8px;
 
-}
+}*/
 
 
 
