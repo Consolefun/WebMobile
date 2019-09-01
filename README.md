@@ -16,7 +16,7 @@
 - **Please refer to the Wiki page for detail information about this repository**
    * [Web_ICP1](https://github.com/Consolefun/WebMobile-week1/wiki/Web-ICP1)
   
-  # WebDevelopment-week2 (ICP2)
+ # WebDevelopment-week2 (ICP2)
   
    1. **This is the index page and was created based on Demon Slayer which is my favorite anime**
          * This html file is located in the index folder inside Web_ICP2
