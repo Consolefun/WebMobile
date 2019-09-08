@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    height: 100vh;
+    background-color: rgba(68, 8, 58, 0.91);
+    font-family: sans-serif;
+
+}
+
+.score{
+    color: rgb(235, 25, 41);
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;/*horizontal and space out in the middle*/
+    align-items: center;
+
+}
+.computer-score{
+    position: relative;
+    left: -200px;
+}
+.player-score{
+    position: relative;
+    left: 300px;
+}
+.score h2{
+    font-size: 30px;
+}
+.score p {
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+}
+.intro{
+    color: rgb(235, 25, 41);
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    transition: opacity 0.5s ease;
+
+}
+
+.intro h1{
+    font-size: 50px;
+    margin-top: -220px;
+
+}
+.intro button,.match button{
+    width: 130px;
+    height: 50px;
+    background: none;
+    border:none;
+    color: #4336ff;
+    font-size: 30px;
+    background: #fff20e;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.match{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /*transition: opacity 0.5s ease 0.5s;*/ /* match transition fade in and delay for 5 secs*/
+}
+.winner{
+    color: #9eff3e;
+    text-align: center;
+
+    font-size: 50px;
+}
+
+.hands,.options{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.player-hand{
+    transform: rotateY(180deg);
+}
+
+
+

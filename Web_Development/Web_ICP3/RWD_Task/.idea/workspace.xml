@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="838b6703-756a-432b-86da-86e8805210cc" name="Default Changelist" comment="" />
+    <list default="true" id="19ba27e5-d384-4a67-ae6c-90f7b0f2e5a3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,15 +16,11 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
-  </component>
-  <component name="ProjectId" id="1PwhPk8GSIwr2elbt10aQD8gKoX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1QWFaCLlRKGlFhWzwQ17XLhykUy" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../google_page" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -32,6 +28,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhoan\WebstormProjects\RWD_Task" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -50,38 +51,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="838b6703-756a-432b-86da-86e8805210cc" name="Default Changelist" comment="" />
-      <created>1566791043631</created>
+      <changelist id="19ba27e5-d384-4a67-ae6c-90f7b0f2e5a3" name="Default Changelist" comment="" />
+      <created>1567878506770</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566791043631</updated>
-      <workItem from="1566791045645" duration="27000" />
-      <workItem from="1566791105427" duration="4000" />
-      <workItem from="1566841116510" duration="15000" />
-      <workItem from="1566841141274" duration="5000" />
-      <workItem from="1567103913849" duration="1953000" />
-      <workItem from="1567107721918" duration="3997000" />
-      <workItem from="1567176045905" duration="2562000" />
-      <workItem from="1567178637329" duration="22564000" />
-      <workItem from="1567264876164" duration="1871000" />
-      <workItem from="1567271430826" duration="18328000" />
-      <workItem from="1567297393579" duration="250000" />
-      <workItem from="1567314935652" duration="641000" />
+      <updated>1567878506770</updated>
+      <workItem from="1567878508036" duration="11722000" />
+      <workItem from="1567907919687" duration="1642000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

@@ -1,0 +1,48 @@
+
+/*
+.name{
+    position:relative;
+    left: 80%;
+    font-size: 50px;
+    top: -90px;
+
+}*/
+.job_title{
+
+    position:relative;
+    left: -300px;
+    margin-top: 80px;
+
+}
+.first_image{
+    width: 100%;
+    height: 450px;
+
+
+}
+.img-responsive{
+    width: 100%;
+    height: 400px;
+
+}
+#name{
+    font-family: 'Laton',sans-serif;
+    color: #5b5b5b;
+
+}
+#first_text{
+    font-family: 'Orbitron', sans-serif;
+}
+#second_text{
+    font-family: 'Play', sans-serif;
+
+}
+#third_text{
+    font-family: 'Rambla', sans-serif;
+}
+hr{
+    border-width: 5px;
+    margin-top: 0px;
+    color: gray;
+
+}

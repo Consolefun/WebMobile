@@ -15,7 +15,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Index" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/RockPaperScissor" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,6 +52,7 @@
       <workItem from="1567308994295" duration="152000" />
       <workItem from="1567313192499" duration="622000" />
       <workItem from="1567313837861" duration="1064000" />
+      <workItem from="1567804293549" duration="4172000" />
     </task>
     <servers />
   </component>
