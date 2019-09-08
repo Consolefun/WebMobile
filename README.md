@@ -22,7 +22,7 @@
          * This html file is located in the index folder inside Web_ICP2
             # [Click to open index](https://user-images.githubusercontent.com/46702069/64070567-cc4f0680-cc28-11e9-91f4-4746a09cad18.png)
   
-  2. **This is the google home page, I added the recent search tabs below google search bar and add my profile picture and bell icon on top right corner**
+   2. **This is the google home page, I added the recent search tabs below google search bar and add my profile picture and bell icon on top right corner**
        * Html and css files are located in the google_page folder inside Web_ICP2
             # [Click to open google page](https://user-images.githubusercontent.com/46702069/64072186-3333e600-cc50-11e9-860b-60d9be032d0d.png)
   
@@ -30,6 +30,16 @@
  
     * [Web ICP2](https://github.com/Consolefun/WebMobile/wiki/Web-ICP2)
   
-  
+  # WebDevelopment-Week3 (ICP3)
+   1. **Rock, Paper and Scissors game. The images were from a youtuber Dev Ed.**
+       * all RockPaperScissor game located in Web_ICP3 folder.
+        # [Click to open Rock! Paper! Scissor!](https://user-images.githubusercontent.com/46702069/64483789-5c172680-d1ce-11e9-8f72-7d5ba1cf808a.png)
+   2. **RWD Task. Worked with Bootstrap to make website responsive with all devices.**
+       * RWD_Task is located inside Web_ICP3 folder.
+        # [Click to open RWD_Task](https://user-images.githubusercontent.com/46702069/64483828-07c07680-d1cf-11e9-8b05-63c24e4032e2.png)
+        # [Click to see responsive image](https://user-images.githubusercontent.com/46702069/64483857-9d5c0600-d1cf-11e9-87eb-6a1f5b5cfdde.png)
+ 
+ - **Please refer to the Wiki page for detail information about this repository**
+
  
 # This was created by William Hoang! 
