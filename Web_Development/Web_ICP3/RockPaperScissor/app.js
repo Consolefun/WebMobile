@@ -9,6 +9,7 @@ const game = () => {
         var playerHand = document.querySelector(".player-hand");
         var computerHand = document.querySelector(".computer-hand");
 
+        //add event listener for buttons inside option class
         options.forEach(option => {
             option.addEventListener("click", function () {
                 //Computer Choice

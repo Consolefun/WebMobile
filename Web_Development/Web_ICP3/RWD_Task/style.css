@@ -7,12 +7,10 @@
     top: -90px;
 
 }*/
-.job_title{
+#job_title{
 
-    position:relative;
-    left: -300px;
-    margin-top: 80px;
-
+    color: #7c7c7c;
+    font-family: 'Orbitron', sans-serif;
 }
 .first_image{
     width: 100%;
@@ -27,6 +25,7 @@
 }
 #name{
     font-family: 'Laton',sans-serif;
+    font-size: 60px;
     color: #5b5b5b;
 
 }

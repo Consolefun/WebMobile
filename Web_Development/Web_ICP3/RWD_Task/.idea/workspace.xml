@@ -20,7 +20,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RockPaperScissor" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -57,7 +57,9 @@
       <option name="presentableId" value="Default" />
       <updated>1567878506770</updated>
       <workItem from="1567878508036" duration="11722000" />
-      <workItem from="1567907919687" duration="1642000" />
+      <workItem from="1567907919687" duration="2289000" />
+      <workItem from="1567916947049" duration="3483000" />
+      <workItem from="1567962187921" duration="679000" />
     </task>
     <servers />
   </component>

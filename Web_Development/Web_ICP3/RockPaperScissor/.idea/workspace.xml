@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RWD_Task" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -71,6 +71,8 @@
       <workItem from="1567882472440" duration="234000" />
       <workItem from="1567883188180" duration="938000" />
       <workItem from="1567884225208" duration="12700000" />
+      <workItem from="1567919559173" duration="596000" />
+      <workItem from="1567962275974" duration="745000" />
     </task>
     <servers />
   </component>
