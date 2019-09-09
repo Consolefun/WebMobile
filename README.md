@@ -40,6 +40,6 @@
         # [Click to see responsive image](https://user-images.githubusercontent.com/46702069/64483857-9d5c0600-d1cf-11e9-87eb-6a1f5b5cfdde.png)
  
  - **Please refer to the Wiki page for detail information about this repository**
-
+    * [Web ICP3](https://github.com/Consolefun/WebMobile/wiki/Web-ICP3)
  
 # This was created by William Hoang! 
