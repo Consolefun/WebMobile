@@ -50,5 +50,5 @@
      # [image](https://user-images.githubusercontent.com/46702069/64914856-b577dc00-d71f-11e9-8329-aa196c40617c.png)
      
   **Please refer to the wiki page for detail information about ICP4 repository
-
+   * [Web ICP4](https://github.com/Consolefun/WebMobile/wiki/Web-ICP4)
 # This was created by William Hoang! 
