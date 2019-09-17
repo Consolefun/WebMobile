@@ -2,6 +2,7 @@
 const game = () => {
     let player_score = 0;
     let computer_score = 0;
+    // Play the game computer vs human
     const playMatch = () => {
         var computerOptions = ["Rock", "Paper", "Scissors"];
 
