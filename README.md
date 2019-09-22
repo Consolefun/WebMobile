@@ -1,4 +1,4 @@
-# Webdevelopment-week1 (ICP1)
+# Web Development-week1 (ICP1)
 
 - **Screenshot of the repository in Documentation folder**
 
@@ -16,7 +16,7 @@
 - **Please refer to the Wiki page for detail information about ICP1 repository**
    * [Web_ICP1](https://github.com/Consolefun/WebMobile-week1/wiki/Web-ICP1)
   
- # Webdevelopment-week2 (ICP2)
+ # Web Development-week2 (ICP2)
   
    1. **This is the index page and was created based on Demon Slayer which is my favorite anime**
          * This html file is located in the index folder inside Web_ICP2
@@ -30,7 +30,7 @@
  
     * [Web ICP2](https://github.com/Consolefun/WebMobile/wiki/Web-ICP2)
   
-  # Webdevelopment-Week3 (ICP3)
+  # Web Development-Week3 (ICP3)
    1. **Rock, Paper and Scissors game. The images were from a youtuber Dev Ed.**
        * all RockPaperScissor game located in Web_ICP3 folder.
         # [Click to open Rock! Paper! Scissor!](https://user-images.githubusercontent.com/46702069/64483789-5c172680-d1ce-11e9-8f72-7d5ba1cf808a.png)
@@ -41,7 +41,7 @@
  
  - **Please refer to the Wiki page for detail information about ICP3 repository**
     * [Web ICP3](https://github.com/Consolefun/WebMobile/wiki/Web-ICP3)
- # Webdevelopment-Week4 (ICP4)
+ # Web Development-Week4 (ICP4)
  1. **Hover over images assignment.**
      * Hover_Image folder is located in Web_ICP4 folder.
       # [Hover_Image](https://user-images.githubusercontent.com/46702069/64914809-a3e20480-d71e-11e9-86db-fce205353242.png)
@@ -51,4 +51,13 @@
      
   **Please refer to the wiki page for detail information about ICP4 repository
    * [Web ICP4](https://github.com/Consolefun/WebMobile/wiki/Web-ICP4)
+  # Web Development-Week5 (ICP5)
+  1. **To do list app implemented with Angular.**
+      * ToDoICP is located inside Web_ICP5 folder
+      # [To Do List](https://user-images.githubusercontent.com/46702069/65381815-3570e980-dcbe-11e9-8357-0d34b5963cf3.png)
+  2. **Calculator app implemented with Angular.**
+      * CalculatorICP is located inside Web_ICP5 folder
+      # [Calculator](https://user-images.githubusercontent.com/46702069/65381833-9c8e9e00-dcbe-11e9-9eec-94ca38a02531.png)
+  **Please refer to the wiki page for detail information about ICP5 repository
+   * [Web ICP5]()
 # This was created by William Hoang! 
