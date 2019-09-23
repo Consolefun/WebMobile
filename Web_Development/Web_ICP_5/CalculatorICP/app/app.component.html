@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <title>Calculator</title>
+  // 1. write Typescript code in "app.component.ts" to work with calculator
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+</head>
+<body>
+
+
+<div class="container">
+  <div class="row">
+    <div class="calc">
+      <p class="logo">CALCULATOR</p>
+      <div class="screen">
+        <div class="subdisplay">{{subText}}</div>
+        {{mainText}}
+      </div>
+
+      <div class="buttons">
+        <div class="button" (click)="pressKey('0')">0</div>
+        <div class="button"(click)="getResult()">=</div>
+        <div class="button"(click)="pressKey('%')">%</div>
+        <div class="button op"(click)="pressKey('+')">+</div>
+        <div class="button"(click)="pressKey('1')">1</div>
+        <div class="button"(click)="pressKey('2')">2</div>
+        <div class="button"(click)="pressKey('3')">3</div>
+        <div class="button op"(click)="pressKey('-')">-</div>
+        <div class="button"(click)="pressKey('4')">4</div>
+        <div class="button"(click)="pressKey('5')">5</div>
+        <div class="button"(click)="pressKey('6')">6</div>
+        <div class="button op"(click)="pressKey('*')">*</div>
+        <div class="button"(click)="pressKey('7')">7</div>
+        <div class="button"(click)="pressKey('8')">8</div>
+        <div class="button"(click)="pressKey('9')">9</div>
+        <div class="button op"(click)="pressKey('/')">/</div>
+        <div class="button clear"(click)="clearScreen()">Clear</div>
+
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

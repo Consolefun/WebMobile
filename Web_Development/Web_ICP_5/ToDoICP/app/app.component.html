@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Todo list</title>
+</head>
+<body>
+
+<div class="container">
+
+
+  <h1>Task List</h1>
+  <!-- Set item string to Angular ngModel, used click to call functions define in TypeScript-->
+  <input type="text" id="input" placeholder="Enter your task" [(ngModel)]="item"/>
+  <button class="add_item" (click)="submitNewItem()" > Add Item</button>
+
+  <!-- set a for loop iterate through the item list, delete 1 item at a time when Remove button click -->
+  <ul class="items" *ngFor="let item of items_list; let j = index;">
+    <li >
+      {{item}}<button class="remove_item" (click)="deleteItem(j)">Remove</button></li>
+  </ul>
+
+
+</div>
+
+
+
+</body>
+</html>
