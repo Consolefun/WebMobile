@@ -1,0 +1,41 @@
+.parent-container {
+  position: relative;
+  height:100%;
+  width: 100%;
+
+}
+.child-container {
+  color: white;
+  text-align: center;
+  position: center;
+
+}
+
+.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+  color: #90c0cc;
+  border-color: #33a6cc;
+}
+.btn-primary.outline:active, .btn-primary.outline.active {
+  border-color: #007299;
+  color: #101199;
+  box-shadow: none;
+}
+.btn-lg{
+
+  font-size: 30px;
+  border-radius: 30px;
+}
+.btn.btn-primary.raised{
+  box-shadow: 0 3px 0 0 #343434;
+}
+.btn-primary.raised:active, .btn-primary.raised.active{
+  background: #38cc0c;
+  box-shadow: none;
+  margin-bottom: -3px;
+  margin-top: 3px;
+}
+.desc {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 17px;
+}
+
