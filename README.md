@@ -67,5 +67,5 @@
    # [Search Recipe & Restaurant Page](https://user-images.githubusercontent.com/46702069/65823971-cfd4ae00-e225-11e9-94b4-98d7d1394079.png)
    # [Contact Page](https://user-images.githubusercontent.com/46702069/65824110-63a77980-e228-11e9-9e2d-03952a5c55da.png)
  - **Please refer to the wiki page for detail information about ICP6 repository**
-  
+   * [Web ICP6](https://github.com/Consolefun/WebMobile/wiki/Web-ICP6)
 # This was created by William Hoang! 
