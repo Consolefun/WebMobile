@@ -62,7 +62,7 @@
    * [Web ICP5](https://github.com/Consolefun/WebMobile/wiki/Web-ICP5)
   # Web Development-Week6 (ICP6)
   **Find Recipe and nearby restaurant Application implemented using Angular**
-    * Find_recipe folder can be find in Web_ICP6 folder
+   * Find_recipe folder can be find in Web_ICP6 folder
    # [Home Page](https://user-images.githubusercontent.com/46702069/65824094-2e9b2700-e228-11e9-84db-b929cb39316b.png)
    # [Search Recipe & Restaurant Page](https://user-images.githubusercontent.com/46702069/65823971-cfd4ae00-e225-11e9-94b4-98d7d1394079.png)
    # [Contact Page](https://user-images.githubusercontent.com/46702069/65824110-63a77980-e228-11e9-9e2d-03952a5c55da.png)
