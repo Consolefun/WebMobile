@@ -68,4 +68,13 @@
    # [Contact Page](https://user-images.githubusercontent.com/46702069/65824110-63a77980-e228-11e9-9e2d-03952a5c55da.png)
  - **Please refer to the wiki page for detail information about ICP6 repository**
    * [Web ICP6](https://github.com/Consolefun/WebMobile/wiki/Web-ICP6)
+  # Web Development-Week7 (ICP7)
+  **Implemented LibraryBooksSystem adding books into the database using MongoDB, Express, Angular, and Node.js**
+   * LibraryBooksSystem can be find in Web_ICP7 folder
+   # [List of Books](https://user-images.githubusercontent.com/46702069/66262298-be018680-e7a2-11e9-9d42-94643c160c7c.png)
+   # [Book Details](https://user-images.githubusercontent.com/46702069/66262347-54ce4300-e7a3-11e9-8408-33e50ff2c779.png)
+   # [Edit Book's information](https://user-images.githubusercontent.com/46702069/66262383-f190e080-e7a3-11e9-9471-1acfdfccca4f.png)
+ - **Please refer to the wiki page for detail information about ICP7 repository**
+   * [Web ICP7](https://github.com/Consolefun/WebMobile/wiki/Web-ICP7)
+
 # This was created by William Hoang! 
