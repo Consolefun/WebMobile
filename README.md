@@ -76,7 +76,7 @@
    # [Edit Book's information](https://user-images.githubusercontent.com/46702069/66262383-f190e080-e7a3-11e9-9471-1acfdfccca4f.png)
  - **Please refer to the wiki page for detail information about ICP7 repository**
    * [Web ICP7](https://github.com/Consolefun/WebMobile/wiki/Web-ICP7)
-   # Mobile Development-Week1 (ICP1)
+  # Mobile Development-Week1 (ICP1)
    **Created a simple login app using Android Studio**
    * Login_App can be find in Mobile_ICP1 folder
    # [Login Page](https://user-images.githubusercontent.com/46702069/66969272-9afe8e80-f04e-11e9-85b4-041b676c0efa.png)
