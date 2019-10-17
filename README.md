@@ -13,7 +13,7 @@
 
 - **index.html is in Source folder(Web ICP1)**
 
-- **Please refer to the Wiki page for detail information about ICP1 repository**
+- **Please refer to the Wiki page for detail information about Web_ICP1 repository**
    * [Web_ICP1](https://github.com/Consolefun/WebMobile-week1/wiki/Web-ICP1)
   
  # Web Development-week2 (ICP2)
@@ -26,7 +26,7 @@
        * Html and css files are located in the google_page folder inside Web_ICP2
             # [Click to open google page](https://user-images.githubusercontent.com/46702069/64072186-3333e600-cc50-11e9-860b-60d9be032d0d.png)
   
- - **Please refer to the Wiki page for detail information about ICP2 repository**
+ - **Please refer to the Wiki page for detail information about Web_ICP2 repository**
  
     * [Web ICP2](https://github.com/Consolefun/WebMobile/wiki/Web-ICP2)
   
@@ -39,7 +39,7 @@
         # [Click to open RWD_Task](https://user-images.githubusercontent.com/46702069/64483828-07c07680-d1cf-11e9-8b05-63c24e4032e2.png)
         # [Click to see responsive image](https://user-images.githubusercontent.com/46702069/64483857-9d5c0600-d1cf-11e9-87eb-6a1f5b5cfdde.png)
  
- - **Please refer to the Wiki page for detail information about ICP3 repository**
+ - **Please refer to the Wiki page for detail information about Web_ICP3 repository**
     * [Web ICP3](https://github.com/Consolefun/WebMobile/wiki/Web-ICP3)
  # Web Development-Week4 (ICP4)
  1. **Hover over images assignment.**
@@ -49,7 +49,7 @@
      * Github_user_finder folder located in Web_ICP4 folder.
      # [image](https://user-images.githubusercontent.com/46702069/64914856-b577dc00-d71f-11e9-8329-aa196c40617c.png)
      
- - **Please refer to the wiki page for detail information about ICP4 repository**
+ - **Please refer to the wiki page for detail information about Web_ICP4 repository**
     * [Web ICP4](https://github.com/Consolefun/WebMobile/wiki/Web-ICP4)
  # Web Development-Week5 (ICP5)
   1. **To do list app implemented with Angular.**
@@ -58,7 +58,7 @@
   2. **Calculator app implemented with Angular.**
       * CalculatorICP is located inside Web_ICP5 folder
       # [Calculator](https://user-images.githubusercontent.com/46702069/65381833-9c8e9e00-dcbe-11e9-9eec-94ca38a02531.png)
- - **Please refer to the wiki page for detail information about ICP5 repository**
+ - **Please refer to the wiki page for detail information about Web_ICP5 repository**
    * [Web ICP5](https://github.com/Consolefun/WebMobile/wiki/Web-ICP5)
   # Web Development-Week6 (ICP6)
   **Find Recipe and nearby restaurant Application implemented using Angular**
@@ -66,7 +66,7 @@
    # [Home Page](https://user-images.githubusercontent.com/46702069/65824094-2e9b2700-e228-11e9-84db-b929cb39316b.png)
    # [Search Recipe & Restaurant Page](https://user-images.githubusercontent.com/46702069/65823971-cfd4ae00-e225-11e9-94b4-98d7d1394079.png)
    # [Contact Page](https://user-images.githubusercontent.com/46702069/65824110-63a77980-e228-11e9-9e2d-03952a5c55da.png)
- - **Please refer to the wiki page for detail information about ICP6 repository**
+ - **Please refer to the wiki page for detail information about Web_ICP6 repository**
    * [Web ICP6](https://github.com/Consolefun/WebMobile/wiki/Web-ICP6)
   # Web Development-Week7 (ICP7)
   **Implemented LibraryBooksSystem adding books into the database using MongoDB, Express, Angular, and Node.js**
@@ -74,7 +74,7 @@
    # [List of Books](https://user-images.githubusercontent.com/46702069/66262298-be018680-e7a2-11e9-9d42-94643c160c7c.png)
    # [Book Details](https://user-images.githubusercontent.com/46702069/66262347-54ce4300-e7a3-11e9-8408-33e50ff2c779.png)
    # [Edit Book's information](https://user-images.githubusercontent.com/46702069/66262383-f190e080-e7a3-11e9-9471-1acfdfccca4f.png)
- - **Please refer to the wiki page for detail information about ICP7 repository**
+ - **Please refer to the wiki page for detail information about Web_ICP7 repository**
    * [Web ICP7](https://github.com/Consolefun/WebMobile/wiki/Web-ICP7)
   # Mobile Development-Week1 (ICP1)
    **Created a simple login app using Android Studio**
