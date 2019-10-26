@@ -83,5 +83,13 @@
    # [Home Page](https://user-images.githubusercontent.com/46702069/66969341-c1bcc500-f04e-11e9-9be2-5f4d5469629a.png)
  - **Please refer to the wiki page for detail information about Mobile_ICP1 respository**
    * [Mobile ICP1](https://github.com/Consolefun/WebMobile/wiki/Mobile-ICP1)
+  # Mobile Development-Week2 (ICP2)
+   **Created a simple Pizza order app with Android Studio**
+   * Pizza_Order app can be find in Mobile_ICP2 folder
+   #[Home Page](https://user-images.githubusercontent.com/46702069/67627091-7b6c2080-f81b-11e9-992a-c80e79ab0c8e.png)
+   #[Summary Page](https://user-images.githubusercontent.com/46702069/67627295-d3585680-f81e-11e9-95b9-28cfc53c674d.png)
+   #[Order's Email Page](https://user-images.githubusercontent.com/46702069/67627305-174b5b80-f81f-11e9-864c-1eb33bfcb124.png)
 
+  - **Please refer to the wiki page for detail information about Mobile_ICP2 repository**
+    *[Mobile ICP2](https://github.com/Consolefun/WebMobile/wiki/Mobile-ICP2)
 # This was created by William Hoang! 
