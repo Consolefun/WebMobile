@@ -98,5 +98,5 @@
    * EarthquakeApp folder can be find in Mobile_ICP3 folder 
    # [App page](https://user-images.githubusercontent.com/46702069/68075903-36e10780-fd7c-11e9-8ab8-db67b96169f9.png)
    - **please refer to the wiki page for detail information about Mobile_ICP3 resposiory**
-        *[Mobile ICP3](https://github.com/Consolefun/WebMobile/wiki/Mobile-ICP3)
+        * [Mobile ICP3](https://github.com/Consolefun/WebMobile/wiki/Mobile-ICP3)
 # This was created by William Hoang! 
