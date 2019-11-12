@@ -99,4 +99,12 @@
    # [App page](https://user-images.githubusercontent.com/46702069/68075903-36e10780-fd7c-11e9-8ab8-db67b96169f9.png)
    - **please refer to the wiki page for detail information about Mobile_ICP3 resposiory**
         * [Mobile ICP3](https://github.com/Consolefun/WebMobile/wiki/Mobile-ICP3)
+  # Mobile Development-week4 (ICP4)
+   **Created AndroidHardware app, access location, camera, audio, and storage in android phone**
+   * AndroidHardware folder can be find in Mobile_ICP4 folder
+   # [User's location](https://user-images.githubusercontent.com/46702069/68638585-a915c280-04c7-11ea-8b3b-b038fadaff64.png)
+   # [Camera](https://user-images.githubusercontent.com/46702069/68638629-ccd90880-04c7-11ea-85e1-ca3a1694283d.png)
+   # [Recording](https://user-images.githubusercontent.com/46702069/68638697-f4c86c00-04c7-11ea-8e3c-bfbf22d2abc4.png)
+   # [Internal Storage](https://user-images.githubusercontent.com/46702069/68638771-2c371880-04c8-11ea-979d-bf832c5623ea.png)
+
 # This was created by William Hoang! 
