@@ -106,5 +106,18 @@
    # [Camera](https://user-images.githubusercontent.com/46702069/68638629-ccd90880-04c7-11ea-85e1-ca3a1694283d.png)
    # [Recording](https://user-images.githubusercontent.com/46702069/68638697-f4c86c00-04c7-11ea-8e3c-bfbf22d2abc4.png)
    # [Internal Storage](https://user-images.githubusercontent.com/46702069/68638771-2c371880-04c8-11ea-979d-bf832c5623ea.png)
-
+   
+  # Mobile Development-week5 (ICP5)
+   **Created android SQLite and FireBase database app**
+    * SQLite and FireBase folder locatd inside ICP5 foler
+    
+   # [SQLite's homepage](https://user-images.githubusercontent.com/46702069/69015310-4fdee080-0958-11ea-9ab6-d9fe630470ca.png)
+   # [Employer page](https://user-images.githubusercontent.com/46702069/69015334-7dc42500-0958-11ea-9786-1e610f3ee452.png)
+   # [Employee page](https://user-images.githubusercontent.com/46702069/69015355-a2200180-0958-11ea-89ce-720d3a7a950c.png)
+   # [Firebase's welcome page](https://user-images.githubusercontent.com/46702069/69015375-d1cf0980-0958-11ea-8854-3325998abb93.png)
+   # [Register page](https://user-images.githubusercontent.com/46702069/69015403-13f84b00-0959-11ea-8686-5836a06a4854.png)
+   # [Login page](https://user-images.githubusercontent.com/46702069/69015431-5f125e00-0959-11ea-8942-27934a997351.png)
+   # [Home page](https://user-images.githubusercontent.com/46702069/69015448-7f421d00-0959-11ea-893e-89a5558469b7.png)
+   - **Please refer to the wiki page for detail information about mobile_ICP5 repository**
+        *[Mobile_ICP5](https://github.com/Consolefun/WebMobile/wiki/Mobile-ICP5)
 # This was created by William Hoang! 
