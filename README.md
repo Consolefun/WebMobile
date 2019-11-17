@@ -109,7 +109,7 @@
    
   # Mobile Development-week5 (ICP5)
    **Created android SQLite and FireBase database app**
-    * SQLite and FireBase folder locatd inside ICP5 foler
+   * SQLite and FireBase folder locatd inside ICP5 foler
     
    # [SQLite's homepage](https://user-images.githubusercontent.com/46702069/69015310-4fdee080-0958-11ea-9ab6-d9fe630470ca.png)
    # [Employer page](https://user-images.githubusercontent.com/46702069/69015334-7dc42500-0958-11ea-9786-1e610f3ee452.png)
@@ -119,5 +119,5 @@
    # [Login page](https://user-images.githubusercontent.com/46702069/69015431-5f125e00-0959-11ea-8942-27934a997351.png)
    # [Home page](https://user-images.githubusercontent.com/46702069/69015448-7f421d00-0959-11ea-893e-89a5558469b7.png)
    - **Please refer to the wiki page for detail information about mobile_ICP5 repository**
-        *[Mobile_ICP5](https://github.com/Consolefun/WebMobile/wiki/Mobile-ICP5)
+        * [Mobile_ICP5](https://github.com/Consolefun/WebMobile/wiki/Mobile-ICP5)
 # This was created by William Hoang! 
