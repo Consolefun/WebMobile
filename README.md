@@ -125,5 +125,5 @@
    * SpeechToText folder is locaated inside Mobile_ICP6 folder
    #[Home Screen](https://user-images.githubusercontent.com/46702069/69389816-c3535b80-0c92-11ea-8c2b-33d4ea64e85c.png)
    - **Please refer to the wiki page for detail information about mobile_ICP6 repository**
-        * [Mobile_ICP6](https://github.com/Consolefun/WebMobile/wiki/Mobile-ICP6)
+       * [Mobile_ICP6](https://github.com/Consolefun/WebMobile/wiki/Mobile-ICP6)
 # This was created by William Hoang! 
