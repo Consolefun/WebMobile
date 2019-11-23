@@ -8,27 +8,27 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:291291185890:android:ee54146076be13f34b54bb",
+        "mobilesdk_app_id": "Nope",
         "android_client_info": {
           "package_name": "com.vijaya.firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "291291185890-o7dcngsu9qln2pl5ucbbildcucrdop7o.apps.googleusercontent.com",
+          "client_id": "Nope",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCz4k-VFvZwDX_P0jR9l83orKhtCcOYd7I"
+          "current_key": "NOpe"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "291291185890-o7dcngsu9qln2pl5ucbbildcucrdop7o.apps.googleusercontent.com",
+              "client_id": "Nope",
               "client_type": 3
             }
           ]
